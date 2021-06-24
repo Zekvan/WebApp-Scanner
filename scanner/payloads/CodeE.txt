@@ -1,0 +1,6 @@
+"print(int)98735-1;
+1&print(int)98735-1;
++print(int)98735-1;//
++system('set /a 98735-1')
+");+system('set /a 98735-1')//
+');+system('set /a 98735-1')//
